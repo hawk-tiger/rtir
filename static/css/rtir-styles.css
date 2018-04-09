@@ -167,9 +167,7 @@ body.rtir .incidents .actions {
 
 body.rtir .incidents .actions .button {
     border: none;
-    padding: 0.95em;
-    padding-top: 0.2em;
-    padding-bottom: 0.2em;
+    padding: 0.2em 0.5em;
 }
 
 body.rtir .incidents .actions #create-incident {
@@ -199,4 +197,8 @@ body.rtir .sf-menu a.sf-with-ul {
 
 body.rtir table.lookup-tool-forms td {
     vertical-align: middle;
+}
+
+body.rtir .button.compact {
+    padding: 0.2em 0.5em;
 }
